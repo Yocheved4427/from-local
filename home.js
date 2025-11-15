@@ -11,3 +11,7 @@ const b=()=>{
 const c=()=>{
     alert("c")
 }
+const d=()=>{
+ console.log("d")
+
+}
